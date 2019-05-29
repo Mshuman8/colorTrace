@@ -1,0 +1,52 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    /*margins: 1px;*/
+}
+
+.box {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    /*margin: 1px;*/
+}
+
+/*.red {*/
+/*    background-color: red;*/
+/*}*/
+
+/*.orange {*/
+/*    background-color: orange;*/
+/*}*/
+
+/*.yellow {*/
+/*    background-color: yellow;*/
+/*}*/
+
+/*.green {*/
+/*    background-color: green;*/
+/*}*/
+
+/*.blue {*/
+/*    background-color: blue;*/
+/*}*/
+
+/*.purple {*/
+/*    background-color: purple;*/
+/*}*/
+
+/*.pink {*/
+/*    background-color: pink;*/
+/*}*/
+
+/*.black {*/
+/*    background-color: black;*/
+/*}*/
+
+/*.grey {*/
+/*    background-color: grey;*/
+/*}*/
+
+/*.teal {*/
+/*    background-color: teal;*/
+/*}*/
